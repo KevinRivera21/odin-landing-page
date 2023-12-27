@@ -22,10 +22,14 @@ body {
 
 .main-section {
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
     padding: 100px;
-    
+    justify-content: center;
+    align-items: center;
+}
+.text {
+   
+    flex-basis: 400px;
+    margin: 90px;       
 }
 
 li {
