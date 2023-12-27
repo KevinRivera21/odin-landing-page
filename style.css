@@ -69,3 +69,24 @@ a {
     margin-top: 10px;
     border-radius: 10px;
 }
+
+.information-header {
+    text-align: center;
+}
+
+.middle-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.cards-container {
+    display: flex;
+}
+
+.information-images {
+    width: 200px;
+    height: 200px;
+    border: 4px solid #3882f6;
+    border-radius: 15px;
+}
