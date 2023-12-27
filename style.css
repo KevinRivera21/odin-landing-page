@@ -1,3 +1,11 @@
+body {
+    margin: 0;
+}
+
+.body-container {
+    display: flex;
+    flex-direction: column;
+}
 .hero {
     background-color: #1F2937;
 }
@@ -10,6 +18,14 @@
 .links {
     display: flex;
     gap: 16px;
+}
+
+.main-section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 100px;
+    
 }
 
 li {
@@ -28,10 +44,12 @@ a {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
+    margin: 0;
 }
 
 
 .subtext, a {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0;
 }
