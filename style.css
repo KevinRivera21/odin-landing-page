@@ -107,7 +107,20 @@ a {
 
 .quote-section {
     display: flex;
+    flex-direction: column;
     margin: 0;
     padding: 100px;
     background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 32px;
+}
+
+.author {
+    align-self: flex-end;
+    font-weight: 800;
 }
