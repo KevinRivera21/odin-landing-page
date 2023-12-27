@@ -42,6 +42,7 @@ a {
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    padding-top: 10px;
 }
 
 .main-text {
@@ -117,10 +118,53 @@ a {
 
 .quote {
     font-style: italic;
-    font-size: 32px;
+    font-size: 36px;
+    color: #1F2937;
 }
 
 .author {
     align-self: flex-end;
     font-weight: 800;
+}
+
+.container {
+    display: flex;
+    background-color: #3882f6;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+
+.action-container {
+    background-color: #3882f6;
+    padding: 30px;
+}
+
+.action-header {
+    margin: 0;
+    color: white;
+    font-weight: 900;
+    
+}
+
+.action-text {
+    margin: 0;
+    color:#E5E7EB
+}
+
+.signup-action {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: white;
+
+
 }
