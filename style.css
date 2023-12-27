@@ -79,7 +79,7 @@ a {
 .middle-section {
     display: flex;
     justify-content: center;
-
+    padding-bottom: 100px;
 }
 
 .cards-container {
@@ -103,4 +103,11 @@ a {
 
 .card-subtext {
     text-align: center;
+}
+
+.quote-section {
+    display: flex;
+    margin: 0;
+    padding: 100px;
+    background-color: #E5E7EB;
 }
