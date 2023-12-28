@@ -166,5 +166,14 @@ a {
     padding-bottom: 5px;
     border-color: white;
 
+}
 
+.footer {
+    background-color: #1F2937;
+    padding: 20px;
+}
+
+.footer-text {
+    color: white;
+    text-align: center;
 }
