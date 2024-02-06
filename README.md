@@ -16,3 +16,5 @@ Welcome to my Odin Landing Page project! This repository showcases my skills in 
 ## Conclusion
 
 This project is a testament to my growing skills in web development, particularly in creating structured, styled, and responsive web pages using HTML and CSS.
+#### Live preview
+https://kevinrivera21.github.io/odin-landing-page/
